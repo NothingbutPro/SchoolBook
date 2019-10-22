@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/feeopt"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_fee"
+        android:icon="@drawable/feeopt"
+        android:title="Fee Records " />
+
+    <item
+        android:id="@+id/navigation_comm"
+        android:icon="@drawable/disscuus"
+        android:title="Community" />
+
+    <item
+        android:id="@+id/navigation_testana"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Test analysis " />
+
+</menu>
